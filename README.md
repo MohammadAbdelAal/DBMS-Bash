@@ -1,3 +1,3 @@
 # DBMS-Bash
-Mohamed Mostafa
-Ahmed Abdelaziz
+#Mohamed Mostafa
+#Ahmed Abdelaziz
